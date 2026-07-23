@@ -10,6 +10,7 @@ public class VibeCodeApplication {
 		SpringApplication.run(VibeCodeApplication.class, args);
 
 		// hello
+		// testing
 	}
 
 }
